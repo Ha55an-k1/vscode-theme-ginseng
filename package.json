@@ -1,0 +1,40 @@
+{
+	"publisher": "hassan-k1",
+	"name": "vscode-theme-ginseng",
+	"description": "Theme Based on Ginseng Green Tea",
+	"displayName": "Ginseng",
+	"version": "2.1.0",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"homepage": "https://github.com/Ha55an-k1/vscode-theme-ginseng",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Ha55an-k1/vscode-theme-ginseng"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"ginseng",
+		"theme",
+		"dark",
+		"green tea",
+		"arizona"
+	],
+	"icon": "icon.jpg",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ginseng",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Ginseng.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "ea6ad6b4-f7db-407e-9545-64482ca5ca1f",
+		"publisherDisplayName": "hassan-k1",
+		"publisherId": "daea174f-8a41-4864-8e40-247c9a4da89c"
+	}
+}
