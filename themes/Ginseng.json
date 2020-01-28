@@ -104,13 +104,13 @@
          "breadcrumbPicker.background":"#0F0019",
 
 
-         "notificationCenter.border":"#FF609D",  
+         "notificationCenter.border":"#F7A10C",  
          "notificationCenterHeader.foreground":"#F7A10C",  
          "notificationCenterHeader.background": "#000000", 
-         "notificationToast.border":"#000000",  
-         "notifications.foreground": "#000000", 
-         "notifications.background": "#0CAD97", 
-         "notifications.border": "#0000ff", 
+         "notificationToast.border":"#40006B",  
+         "notifications.foreground": "#0DD9BE", 
+         "notifications.background": "#1f0033", 
+         "notifications.border": "#0EEFEC", 
          "notificationLink.foreground": "#F7A10C", 
          "notificationsErrorIcon.foreground":"#FF0048", 
          "notificationsWarningIcon.foreground":"#FF0048", 
