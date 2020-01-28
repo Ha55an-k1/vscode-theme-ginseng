@@ -1,9 +1,9 @@
 {
 	"publisher": "hassan-k1",
 	"name": "vscode-theme-ginseng",
-	"description": "Theme Based on Ginseng Green Tea",
-	"displayName": "Ginseng",
-	"version": "2.1.0",
+	"description": "Dark Theme Based on Ginseng Green Tea",
+	"displayName": "Ginseng Dark",
+	"version": "2.1.1",
 	"engines": {
 		"vscode": "^1.0.0"
 	},
@@ -22,11 +22,11 @@
 		"green tea",
 		"arizona"
 	],
-	"icon": "icon.jpg",
+	"icon": "icon.png",
 	"contributes": {
 		"themes": [
 			{
-				"label": "Ginseng",
+				"label": "Ginseng Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Ginseng.json"
 			}
@@ -34,7 +34,7 @@
 	},
 	"__metadata": {
 		"id": "ea6ad6b4-f7db-407e-9545-64482ca5ca1f",
-		"publisherDisplayName": "hassan-k1",
-		"publisherId": "daea174f-8a41-4864-8e40-247c9a4da89c"
+		"publisherId": "daea174f-8a41-4864-8e40-247c9a4da89c",
+		"publisherDisplayName": "hassan-k1"
 	}
 }
