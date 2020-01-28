@@ -21,3 +21,6 @@ If you have suggestions, please open an [issue](https://github.com/Ha55an-k1/vsc
 This theme was inspired by the color scheme of [Arizona Ginseng Green Tea](https://www.google.com/search?q=arizona+green+tea&rlz=1C1CHBD_enCA856CA856&oq=arizona+green+tea+&aqs=chrome..69i57j35i39j0l6.4594j1j7&sourceid=chrome&ie=UTF-8)
 
 P.S I'm not being paid by them, I just really like the color scheme :) 
+
+
+Theme available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=hassan-k1.vscode-theme-ginseng)
